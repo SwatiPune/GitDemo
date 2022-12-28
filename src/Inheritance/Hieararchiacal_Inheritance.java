@@ -24,6 +24,10 @@ class Peacock extends Animals
 	{
 		System.out.println("Singing....");
 	}
+	void dance()
+	{
+		System.out.println("Dancing..");
+	}
 }
 
 public class Hieararchiacal_Inheritance {

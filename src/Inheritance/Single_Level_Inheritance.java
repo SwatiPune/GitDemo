@@ -19,6 +19,11 @@ class Dog extends Animal
 	{
 		System.out.println("Barking..");
 	}
+	
+	void run()
+	{
+		System.out.println("Running");
+	}
 }
 
 public class Single_Level_Inheritance {
