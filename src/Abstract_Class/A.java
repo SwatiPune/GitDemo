@@ -23,6 +23,10 @@ public abstract class A {
 	 {
 		 System.out.println("Speaking...");
 	 }
+	 void A()
+		{
+			System.out.println("this is class A");
+		}
 	 
 	 //Abstract method with no body structure
 	 abstract void fun();

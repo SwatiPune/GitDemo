@@ -22,6 +22,11 @@ class C extends B
 	{
 		System.out.println("this is class C");
 	}
+	
+	void D()
+	{
+		System.out.println("this is class D");
+	}
 }
 
 public class Multilevel2_Inherit {
