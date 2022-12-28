@@ -17,6 +17,8 @@ public class Student2 {
 	 void display()
 	 {
 		 System.out.println(id+" "+name);
+		 System.out.println("Aditya");
+			System.out.println("Korhale");
 	 }
 	
 	public static void main(String[] args) {
@@ -26,6 +28,8 @@ public class Student2 {
 		S2.display();
 		System.out.println("Swati");
 		System.out.println("Anuj");
+		System.out.println("Raje");
+		System.out.println("Maharaja");
 	}
 
 }
