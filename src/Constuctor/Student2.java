@@ -24,6 +24,8 @@ public class Student2 {
 		Student2 S2=new Student2(22,"Aditya");
 		S1.display();
 		S2.display();
+		System.out.println("Swati");
+		System.out.println("Anuj");
 	}
 
 }
