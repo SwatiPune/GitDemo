@@ -11,7 +11,7 @@ class A1
 	}
 }
 
-class B1
+class B2
 {
 	void msg()
 	{
